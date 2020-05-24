@@ -1,0 +1,64 @@
+Week 1
+Peng Jiang
+
+HTML/CSS:
+<p>blablabla</p>
+tag: <p></p>
+content: blablabla
+element: <p>blablabla</p>
+
+block elements / inline elements
+semantic
+multimedia
+
+<ol>...</ol> create numbered lists
+<ul>...</ul> create bulleted lists
+
+href: maito:  tel:// 
+name="name" href="#name"
+
+file picker
+
+form
+
+performance:
+reduce page weight
+minimize the number of files
+use a content delivery network
+
+WAI-ARIA (Web Accessibility Initiative - Accessible Rich Internet Applications)
+
+margin>border>padding
+
+keep coding style consistent
+formatting readable css
+comment
+create logical sections
+break large file into small files
+avoid overly-specific selectors
+
+dropdown menu:
+	.dropdown:hover .dropdown-content {display: block;}
+
+flex box:
+	display:flex;
+	flex-direction: row/column;
+	justify-content: space-around/space-between;
+
+media query:
+	@media (max-width: 1300px){}
+
+grid:
+	display: grid;
+	grid-row/column-gap: 20px;
+	grid-template-column: 
+	justify-content: 
+
+grid-item:
+	grid-column: 
+	grid-row:
+	grid-area:
+
+
+
+
